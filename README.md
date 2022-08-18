@@ -3,7 +3,7 @@
 This is a vanilla javascript project I built taking the Frontend Career Path at Scrimba.
 Languages: Javascript, HTML, CSS
 
-I Had lots of fun building this project and I learnt a lot as well. Here's a couple of things I learnt:
+I had lots of fun building this project and I learnt a lot as well. Here's a couple of things I learnt:
 
 - How to destructure objects as well as mapping over arrays.
 - The Array constructor, and how to chain methods together.
