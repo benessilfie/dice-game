@@ -1,5 +1,7 @@
 # Medieval Dice Game [Scrimba Module 7 Project]
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ce5accef-d2eb-48c5-8c47-46a321a52416/deploy-status??branch=main)](https://medieval-dice-game.netlify.app/)
+
 This is a vanilla javascript project I built taking the Frontend Career Path at Scrimba.
 Languages: Javascript, HTML, CSS
 
