@@ -19,7 +19,7 @@ I had lots of fun building this project and I learnt a lot as well. Here's a cou
 
 ## Demo
 
-[Click](https://google.com/)
+[Click](https://medieval-dice-game.netlify.app/)
 
 ## Author 😊
 
